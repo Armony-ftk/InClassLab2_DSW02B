@@ -13,7 +13,7 @@ const foodItems = [
     id: '1',
     name: 'Cheese Burger',
     price: 65.0,
-    image: require('../assets/food/burger.png'),
+    image: require('../assets/food/burger.jpg'),
   },
   {
     id: '2',
